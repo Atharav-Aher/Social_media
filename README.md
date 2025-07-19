@@ -1,2 +1,2 @@
-# youtube2022
-Season 2 on Lama Dev
+It is a social media app by react.js and node.js
+
